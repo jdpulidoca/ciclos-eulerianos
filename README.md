@@ -1,4 +1,4 @@
-# ciclos-eurelianos
+# ciclos-eulerianos
 Este juego tiene como objetivo el completar un ciclo o camino euleriano, cuya definicion en la teoria de grafos es:
 Un camino que pasa por cada arista (linea) una y solo una vez, este a su vez debe ser un camino cerrado que inicie y termine en el mismo punto.
 
